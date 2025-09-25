@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab4th</string>
+    <string name="you_have_a_new_message">Hey! You have a new message</string>
+    <string name="class_info_systems">ngô thành Hữu 1150070015 </string>
+
+
+    <!-- Bài 2 -->
+    <string name="power_connected">Power connected</string>
+    <string name="power_disconnected">Power disconnected</string>
+</resources>
